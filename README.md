@@ -1,4 +1,4 @@
-## Chemical Reasoning
+This repository is code for **The Illusion of Chemical Reasoning in Large Language Models**
 
 ### Dataset
 *ReactionPerturb* dataset evaluates chemical reasoning through three components:
